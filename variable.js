@@ -14,8 +14,8 @@ var herName = "Perfect"
 console.log(herName);
 
 //how to write your variable name
-// 1. start witha a letter, underscore or a dollar sign
-//2. followed by any number of letters, numbers, or underscores
+// 1. start with a letter, underscore or a dollar sign
+// 2. followed by any number of letters, numbers, or underscores
 // 3. cannot start with a number
 // 4. cannot use reserved keywords
 // 5. variables are case sensitive
@@ -27,14 +27,14 @@ var my_variable;
 // pascal
 var MyVariable
 
-var manName = " John "
+var manName = " John Doe "
 var manAge = " 35 "
 var Cname = " Paul, Enerstina and Diana "
 var Ename = " Enerstina "
 var Dname = " Diana "
 var issick = true;
 let condition = " You can't remember "
-let mymessage = " Wish you a speedy recovery "
+let mymessage = " wish you a speedy recovery "
 
 console.log( 'Your name is' + manName + ' you are ' + manAge + ' years old and you have three lovely children whose names are ' + Cname + ' It is ' + issick + ' you are sick ' + condition + ' anything and i' + mymessage );
 
